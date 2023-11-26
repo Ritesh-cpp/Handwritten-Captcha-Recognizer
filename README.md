@@ -1,1 +1,1 @@
-# Handwritten-Captcha-Recognizer
+# Captcha-Solver-with-emojis-also
