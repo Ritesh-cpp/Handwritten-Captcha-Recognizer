@@ -1,5 +1,5 @@
 # Captcha-Solver-with-emojis-also
-Trained a custom CNN model on the custom dataset of 26 alphabet characters and 7 emojis.<br>
+Trained a custom CNN model on the custom dataset of 26 alphabet characters and 7 emojis.
 Utilized advanced image processing techniques likeAdaptive Thresholding, Morphological Operations, and Image
 Augmentation to achieve exceptional results in model accuracy.<br>
 Used OpenCV for character segmentation and trained a CNN model for detection of segmented characters.<br>
